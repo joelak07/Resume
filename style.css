@@ -1,0 +1,14 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 23pt;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: overline;
+    font-variant: small-caps;
+    color: rgb(119, 111, 111);
+
+}
+p{
+    line-height: 2em;
+    text-align: justify;
+}
